@@ -216,7 +216,6 @@ SEND REQUEST
 </form>
 
 </section>
-
 <footer>
 
 <h3>GEZUZ INK</h3>
@@ -230,6 +229,11 @@ Instagram • TikTok • Facebook
 </p>
 
 </footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
 
 <script src="script.js"></script>
 
