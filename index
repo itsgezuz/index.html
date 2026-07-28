@@ -39,23 +39,33 @@
 
 </header>
 
-<section id="home" class="hero">
+<<section id="home" class="hero">
 
 <div class="overlay"></div>
 
 <div class="hero-content">
 
-<h1>Custom Tattoos<br>Built To Last.</h1>
+<p class="small-title">WELCOME TO</p>
 
-<p>
-Professional Black & Grey • Fine Line • Custom Designs
+<h1>GEZUZ INK</h1>
+
+<h2>Luxury Custom Tattoos</h2>
+
+<p class="hero-text">
+Fine Line • Black & Grey • Chicano • Lettering • Custom Designs
 </p>
 
-<a href="#contact" class="btn">
+<a href="#gallery" class="btn">
+VIEW MY WORK
+</a>
+
+<a href="#contact" class="btn secondary">
 BOOK NOW
 </a>
 
 </div>
+
+</section>
 
 </section>
 
