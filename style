@@ -17,9 +17,12 @@
 
 <header>
 
-<div class="logo">
-GEZUZ <span>INK</span>
-</div>
+.logo .logo img{
+    height:60px;
+    width:auto;
+    display:block;
+}
+}
 
 <nav>
 
