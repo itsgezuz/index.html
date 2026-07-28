@@ -239,3 +239,34 @@ section.show{
     opacity:1;
     transform:translateY(0);
 }
+.small-title{
+    letter-spacing:8px;
+    color:#999;
+    margin-bottom:15px;
+}
+
+.hero h2{
+    font-size:28px;
+    color:#cfcfcf;
+    margin:15px 0;
+    font-weight:300;
+}
+
+.hero-text{
+    max-width:700px;
+    margin:auto;
+    color:#c7c7c7;
+    line-height:1.8;
+}
+
+.secondary{
+    background:transparent;
+    color:white;
+    border:2px solid white;
+    margin-left:20px;
+}
+
+.secondary:hover{
+    background:white;
+    color:black;
+}
