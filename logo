@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
+    <rect width="700" height="180" fill="black"/>
+
+    <text x="350"
+          y="78"
+          text-anchor="middle"
+          font-family="Cinzel, Georgia, serif"
+          font-size="58"
+          font-weight="700"
+          fill="white"
+          letter-spacing="8">
+          GEZUZ
+    </text>
+
+    <line x1="150" y1="98" x2="550" y2="98"
+          stroke="#8c8c8c"
+          stroke-width="2"/>
+
+    <text x="350"
+          y="145"
+          text-anchor="middle"
+          font-family="Arial"
+          font-size="26"
+          fill="#bdbdbd"
+          letter-spacing="10">
+          INK
+    </text>
+</svg>
