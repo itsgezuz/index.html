@@ -15,11 +15,11 @@
 
 <body>
 
-<header>
-
-<div class="logo">
-GEZUZ <span>INK</span>
+<header><div class="logo">
+    <img src="logo.svg" alt="GEZUZ INK Logo">
 </div>
+
+
 
 <nav>
 
